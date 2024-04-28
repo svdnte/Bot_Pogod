@@ -1,0 +1,2 @@
+class NoUserDataException(Exception):
+    pass
